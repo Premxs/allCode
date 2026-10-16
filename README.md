@@ -1,2 +1,2 @@
 # allCode
-This is all Code.
+This is All Code.
